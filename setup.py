@@ -27,5 +27,5 @@ if __name__ == '__main__':
           packages=find_packages(),
           include_package_data=True,
           scripts=['bin/nlg-eval'],
-          install_requires=install_reqs,
+          #install_requires=install_reqs,
     )
